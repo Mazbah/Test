@@ -5,8 +5,8 @@
 
 **Answer:** Solution for the first question is given in the following link -
 
-  **Solution Link:** github.com/Mazbah/Test/blob/master/1.Anagram.java       
-  **Unit Test Link:** github.com/Mazbah/Test/blob/master/AnagramUnitTest.java
+  **Solution Link:** [Anagram](github.com/Mazbah/Test/blob/master/1.Anagram.java)      
+  **Unit Test Link:** [Anagram Unit Test](github.com/Mazbah/Test/blob/master/AnagramUnitTest.java)
   
   
 
@@ -21,13 +21,13 @@
 #### a) Explain how you can use the pattern to create car and plane class?
 **Answer:**  By Factory design pattern, We can use the pattern to create car and plane class.
   
-  **Solution Link:** github.com/Mazbah/Test/blob/master/FactoryDesignPattern.java
+  **Solution Link:** [Factory design pattern](github.com/Mazbah/Test/blob/master/FactoryDesignPattern.java)
   
 #### b) Use a different design pattern for this solution.
 **Answer:** By using Builder design pattern, we can create Car & Plane class as an alternative solution. 
 
-  **Solution Link:** 1) Car Class: github.com/Mazbah/Test/blob/master/Car.java   
-                     2) Plane Class: github.com/Mazbah/Test/blob/master/Plane.java
+  **Solution Link:** 1) Car Class: [Car Class](github.com/Mazbah/Test/blob/master/Car.java)  
+                     2) Plane Class:[Plane Class](github.com/Mazbah/Test/blob/master/Plane.java)
    
    
    
@@ -36,9 +36,9 @@
  
 **Answer:** Here, the android application for video ‘Play’, ‘Forward’, ‘Rewind’ functionalities. Java, MVVM Design pattern, XML etc is used to develop this application.
   
-  **Solution Link:** github.com/Mazbah/TestBongoBD.git
+  **Solution Link:** [Video Player Application](github.com/Mazbah/TestBongoBD.git)
 
-  Pseudocode: Pseudocode for this program is given -
+  **Pseudocode:** Pseudocode for this program is given -
   
   **Play Pseudocode:**
 
