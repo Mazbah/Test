@@ -37,7 +37,7 @@
   
   **Application Link:** [Application(Problem-3)](https://github.com/Mazbah/TestBongoBD/tree/master)
   
-  **Package Link:** [Application(Problem-3)](https://github.com/Mazbah/TestBongoBD/tree/713219f5eafcb626cc5c520c1685a1e6afc7537d/app/src/main/java/com/example/demo/problem3)
+  **Package Link:** [Application(Problem-3)](https://github.com/Mazbah/TestBongoBD/tree/master/app/src/main/java/com/example/demo/problem3)
 
   **Pseudocode:** Pseudocode for this program is given -
   
