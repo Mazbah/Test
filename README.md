@@ -21,13 +21,13 @@
 #### a) Explain how you can use the pattern to create car and plane class?
 **Answer:**  By Factory design pattern, We can use the pattern to create car and plane class.
   
-  **Solution Link:** [Factory design pattern](github.com/Mazbah/Test/blob/master/FactoryDesignPattern.java)
+  **Solution Link:** [Factory design pattern](FactoryDesignPattern.java)
   
 #### b) Use a different design pattern for this solution.
 **Answer:** By using Builder design pattern, we can create Car & Plane class as an alternative solution. 
 
-  **Solution Link:** 1) Car Class: [Car Class](github.com/Mazbah/Test/blob/master/Car.java)  
-                     2) Plane Class:[Plane Class](github.com/Mazbah/Test/blob/master/Plane.java)
+  **Solution Link:** 1) Car Class: [Car Class](Car.java)  
+                     2) Plane Class:[Plane Class](Plane.java)
    
    
    
