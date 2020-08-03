@@ -1,7 +1,7 @@
---- BongoBD Android Code Test of Md. Mazbah Uddin Ahammed Chy ---
+# BongoBD Android Code Test of Md. Mazbah Uddin Ahammed Chy 
 
 
-Question:1 ) Write a function that detects if two strings are anagram e.g. ‘bleat’ and ‘table’ are anagrams but ‘eat’ and ‘tar’ are not.
+##Question:1 ) Write a function that detects if two strings are anagram e.g. ‘bleat’ and ‘table’ are anagrams but ‘eat’ and ‘tar’ are not.
 
 Answer: Solution for the first question is given in the following link -
 
@@ -10,7 +10,7 @@ Answer: Solution for the first question is given in the following link -
   
   
 
-Question:2 ) Explain the design pattern used in following:
+####Question:2 ) Explain the design pattern used in following:
 
         interface Vehicle {
             int set_num_of_wheels()
@@ -32,7 +32,7 @@ Answer: By using Builder design pattern, we can create Car & Plane class as an a
    
    
  
-Question-3 ) Write a video player application with ‘Play’, ‘Forward’, ‘Rewind’ functionalities. Please write pseudocode for this program and explain the design pattern you will use to develop these three functionalities.
+######Question-3 ) Write a video player application with ‘Play’, ‘Forward’, ‘Rewind’ functionalities. Please write pseudocode for this program and explain the design pattern you will use to develop these three functionalities.
  
 Answer: Here, the android application for video ‘Play’, ‘Forward’, ‘Rewind’ functionalities. Java, MVVM Design pattern, XML etc is used to develop this application.
   
