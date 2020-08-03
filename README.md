@@ -5,8 +5,8 @@
 
 **Answer:** Solution for the first question is given in the following link -
 
-  **Solution Link:** [Anagram]( 1.Anagram.java )      
-  **Unit Test Link:** [Anagram Unit Test]( github.com/Mazbah/Test/blob/master/AnagramUnitTest.java )
+  **Solution Link:** [Anagram]( Anagram.java )      
+  **Unit Test Link:** [Anagram Unit Test](AnagramUnitTest.java )
   
   
 
