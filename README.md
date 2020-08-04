@@ -35,9 +35,9 @@
  
 **Answer:** Here, the android application for video ‘Play’, ‘Forward’, ‘Rewind’ functionalities. Java, MVVM Design pattern, XML etc is used to develop this application.
   
-  **Application Link:** [Application(Problem-3)](https://github.com/Mazbah/TestBongoBD/tree/master)
+  **Application Link:** [Application(Problem-3)](https://github.com/Mazbah/Problem3/tree/master)
   
-  **Package Link:** [Application(Problem-3)](https://github.com/Mazbah/TestBongoBD/tree/master/app/src/main/java/com/example/demo/problem3)
+  **Package Link:** [Application(Problem-3)](https://github.com/Mazbah/Problem3/tree/master/app/src/main/java/com/example/demo/problem3)
 
   **Pseudocode:** Pseudocode for this program is given -
   
